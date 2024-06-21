@@ -1,0 +1,6 @@
+﻿  CS323-DZ01-1.cpp
+C:\Users\Urkom\source\repos\CS323-DZ01\CS323-DZ01\CS323-DZ01-1.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CS323-DZ01-2.cpp
+C:\Users\Urkom\source\repos\CS323-DZ01\CS323-DZ01\CS323-DZ01-2.cpp(5,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  CS323-DZ01.vcxproj -> C:\Users\Urkom\source\repos\CS323-DZ01\CS323-DZ01\x64\Debug\CS323-DZ01.exe

@@ -1,0 +1,5 @@
+﻿  Aktivnost.cpp
+  DZ09.cpp
+C:\Users\Urkom\source\repos\DZ09\DZ09\DZ09.cpp(23,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  DZ09.vcxproj -> C:\Users\Urkom\source\repos\DZ09\x64\Debug\DZ09.exe

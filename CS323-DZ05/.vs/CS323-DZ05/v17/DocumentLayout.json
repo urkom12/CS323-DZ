@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Urkom\\source\\repos\\CS323-DZ05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA965F7-608D-4076-AD51-AFE6D6FA7101}|CS323-DZ05\\CS323-DZ05.vcxproj|C:\\Users\\Urkom\\source\\repos\\CS323-DZ05\\CS323-DZ05\\CS323-DZ05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFA965F7-608D-4076-AD51-AFE6D6FA7101}|CS323-DZ05\\CS323-DZ05.vcxproj|solutionrelative:CS323-DZ05\\CS323-DZ05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA965F7-608D-4076-AD51-AFE6D6FA7101}|CS323-DZ05\\CS323-DZ05.vcxproj|C:\\Users\\Urkom\\source\\repos\\CS323-DZ05\\CS323-DZ05\\CS323-DZ05-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFA965F7-608D-4076-AD51-AFE6D6FA7101}|CS323-DZ05\\CS323-DZ05.vcxproj|solutionrelative:CS323-DZ05\\CS323-DZ05-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CS323-DZ05-2.cpp",
+              "DocumentMoniker": "C:\\Users\\Urkom\\source\\repos\\CS323-DZ05\\CS323-DZ05\\CS323-DZ05-2.cpp",
+              "RelativeDocumentMoniker": "CS323-DZ05\\CS323-DZ05-2.cpp",
+              "ToolTip": "C:\\Users\\Urkom\\source\\repos\\CS323-DZ05\\CS323-DZ05\\CS323-DZ05-2.cpp",
+              "RelativeToolTip": "CS323-DZ05\\CS323-DZ05-2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-18T17:36:17.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CS323-DZ05.cpp",
+              "DocumentMoniker": "C:\\Users\\Urkom\\source\\repos\\CS323-DZ05\\CS323-DZ05\\CS323-DZ05.cpp",
+              "RelativeDocumentMoniker": "CS323-DZ05\\CS323-DZ05.cpp",
+              "ToolTip": "C:\\Users\\Urkom\\source\\repos\\CS323-DZ05\\CS323-DZ05\\CS323-DZ05.cpp",
+              "RelativeToolTip": "CS323-DZ05\\CS323-DZ05.cpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAADgvyIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-18T17:33:05.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Urkom\\source\\repos\\CS323-DZ06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{857C2256-48BF-4657-B7B4-9D8968CD2D3B}|CS323-DZ06\\CS323-DZ06.vcxproj|C:\\Users\\Urkom\\source\\repos\\CS323-DZ06\\CS323-DZ06\\CS323-DZ06.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{857C2256-48BF-4657-B7B4-9D8968CD2D3B}|CS323-DZ06\\CS323-DZ06.vcxproj|solutionrelative:CS323-DZ06\\CS323-DZ06.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857C2256-48BF-4657-B7B4-9D8968CD2D3B}|CS323-DZ06\\CS323-DZ06.vcxproj|C:\\Users\\Urkom\\source\\repos\\CS323-DZ06\\CS323-DZ06\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{857C2256-48BF-4657-B7B4-9D8968CD2D3B}|CS323-DZ06\\CS323-DZ06.vcxproj|solutionrelative:CS323-DZ06\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\Urkom\\source\\repos\\CS323-DZ06\\CS323-DZ06\\input.txt",
+              "RelativeDocumentMoniker": "CS323-DZ06\\input.txt",
+              "ToolTip": "C:\\Users\\Urkom\\source\\repos\\CS323-DZ06\\CS323-DZ06\\input.txt",
+              "RelativeToolTip": "CS323-DZ06\\input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-19T15:14:17.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CS323-DZ06.c",
+              "DocumentMoniker": "C:\\Users\\Urkom\\source\\repos\\CS323-DZ06\\CS323-DZ06\\CS323-DZ06.c",
+              "RelativeDocumentMoniker": "CS323-DZ06\\CS323-DZ06.c",
+              "ToolTip": "C:\\Users\\Urkom\\source\\repos\\CS323-DZ06\\CS323-DZ06\\CS323-DZ06.c",
+              "RelativeToolTip": "CS323-DZ06\\CS323-DZ06.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-19T15:08:13.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

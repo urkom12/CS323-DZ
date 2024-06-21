@@ -1,0 +1,13 @@
+﻿  CS323-DZ08-2.cpp
+C:\Users\Urkom\source\repos\CS323-DZ09\CS323-DZ09\Kvadrat.h(19,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Urkom\source\repos\CS323-DZ09\CS323-DZ09\Kvadrat.h(19,33): error C2143: syntax error: missing ',' before '&'
+C:\Users\Urkom\source\repos\CS323-DZ09\CS323-DZ09\CS323-DZ08-2.cpp(23,17): error C2664: 'bool Kvadrat::daLiJeUnutar(const int) const': cannot convert argument 1 from 'Krug' to 'const int'
+  Krug.cpp
+C:\Users\Urkom\source\repos\CS323-DZ09\CS323-DZ09\Krug.h(19,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Urkom\source\repos\CS323-DZ09\CS323-DZ09\Krug.h(19,36): error C2143: syntax error: missing ',' before '&'
+C:\Users\Urkom\source\repos\CS323-DZ09\CS323-DZ09\Krug.cpp(33,12): error C2511: 'bool Krug::daLiJeUnutar(const Kvadrat &) const': overloaded member function not found in 'Krug'
+  Kvadrat.cpp
+C:\Users\Urkom\source\repos\CS323-DZ09\CS323-DZ09\Kvadrat.h(19,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Urkom\source\repos\CS323-DZ09\CS323-DZ09\Kvadrat.h(19,33): error C2143: syntax error: missing ',' before '&'
+C:\Users\Urkom\source\repos\CS323-DZ09\CS323-DZ09\Kvadrat.cpp(33,15): error C2511: 'bool Kvadrat::daLiJeUnutar(const Krug &) const': overloaded member function not found in 'Kvadrat'
+  Generating Code...

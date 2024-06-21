@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Urkom\\source\\repos\\DZ09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E82A70AC-2C0E-4D48-A3A3-16AD4C49D065}|DZ09\\DZ09.vcxproj|C:\\Users\\Urkom\\source\\repos\\DZ09\\DZ09\\DZ09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E82A70AC-2C0E-4D48-A3A3-16AD4C49D065}|DZ09\\DZ09.vcxproj|solutionrelative:DZ09\\DZ09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82A70AC-2C0E-4D48-A3A3-16AD4C49D065}|DZ09\\DZ09.vcxproj|C:\\Users\\Urkom\\source\\repos\\DZ09\\DZ09\\Aktivnost.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E82A70AC-2C0E-4D48-A3A3-16AD4C49D065}|DZ09\\DZ09.vcxproj|solutionrelative:DZ09\\Aktivnost.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82A70AC-2C0E-4D48-A3A3-16AD4C49D065}|DZ09\\DZ09.vcxproj|C:\\Users\\Urkom\\source\\repos\\DZ09\\DZ09\\Aktivnost.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E82A70AC-2C0E-4D48-A3A3-16AD4C49D065}|DZ09\\DZ09.vcxproj|solutionrelative:DZ09\\Aktivnost.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aktivnost.cpp",
+              "DocumentMoniker": "C:\\Users\\Urkom\\source\\repos\\DZ09\\DZ09\\Aktivnost.cpp",
+              "RelativeDocumentMoniker": "DZ09\\Aktivnost.cpp",
+              "ToolTip": "C:\\Users\\Urkom\\source\\repos\\DZ09\\DZ09\\Aktivnost.cpp",
+              "RelativeToolTip": "DZ09\\Aktivnost.cpp",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAFAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-19T16:19:30.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aktivnost.h",
+              "DocumentMoniker": "C:\\Users\\Urkom\\source\\repos\\DZ09\\DZ09\\Aktivnost.h",
+              "RelativeDocumentMoniker": "DZ09\\Aktivnost.h",
+              "ToolTip": "C:\\Users\\Urkom\\source\\repos\\DZ09\\DZ09\\Aktivnost.h",
+              "RelativeToolTip": "DZ09\\Aktivnost.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-19T16:18:58.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DZ09.cpp",
+              "DocumentMoniker": "C:\\Users\\Urkom\\source\\repos\\DZ09\\DZ09\\DZ09.cpp",
+              "RelativeDocumentMoniker": "DZ09\\DZ09.cpp",
+              "ToolTip": "C:\\Users\\Urkom\\source\\repos\\DZ09\\DZ09\\DZ09.cpp",
+              "RelativeToolTip": "DZ09\\DZ09.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-19T16:18:07.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
